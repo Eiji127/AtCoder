@@ -19,3 +19,11 @@ func main() {
  
 main()
 
+let _=readLine()!
+for _ in 0...99{
+  if let s=readLine(){
+    print(s+"\n"+s)
+  }else{
+    break
+  }
+}
