@@ -9,3 +9,9 @@ func main() {
 }
 
 main()
+
+// Answer.2
+
+print((["a","i","u","e","o"].contains(readLine()!)) ? "vowel":"consonant")
+
+
